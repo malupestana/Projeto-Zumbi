@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Plataforma
+comment0.text=\r\n\ Define\ a\ classe\ "Plataforma".\r\n\ Esta\ \u00E9\ uma\ classe\ "m\u00E3e"\ (superclass)\ usada\ para\ agrupar\r\n\ todos\ os\ atores\ que\ funcionam\ como\ ch\u00E3o\ ou\ superf\u00EDcies\ s\u00F3lidas.\r\n\ Outras\ classes\ (como\ 'chao')\ podem\ herdar\ dela.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

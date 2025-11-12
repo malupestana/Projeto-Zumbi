@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Telainicial
+comment0.text=\r\n\ Define\ o\ mundo\ da\ Tela\ Inicial\ do\ jogo,\ que\ \u00E9\ carregada\ primeiro.\r\n\ Sua\ \u00FAnica\ fun\u00E7\u00E3o\ \u00E9\ exibir\ o\ bot\u00E3o\ "Jogar"\ (BotaoJogar).\r\n\ Este\ mundo\ n\u00E3o\ tem\ som.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=
+comment1.target=Telainicial()
+numComments=2

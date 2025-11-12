@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Arvore
+comment0.text=\r\n\ Define\ o\ ator\ "Arvore".\r\n\ \u00C9\ um\ objeto\ de\ cen\u00E1rio\ est\u00E1tico,\ usado\ apenas\ para\ decora\u00E7\u00E3o.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=Arvore(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=chave
+comment0.text=\r\n\ Define\ o\ ator\ "chave"\ (Chave).\r\n\ Este\ \u00E9\ um\ item\ colecion\u00E1vel\ (Requisito\ J4.6)\ que\ o\ Zumbi\ precisa\r\n\ pegar\ para\ vencer\ a\ fase.\ Ele\ \u00E9\ passivo\ e\ \u00E9\ removido\r\n\ quando\ o\ Zumbi\ o\ coleta.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=chave(int,\ int)
+comment2.params=
+comment2.target=void\ serColetada()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=inimigo2
+comment0.text=\r\n\ Define\ o\ ator\ "inimigo2",\ o\ segundo\ tipo\ de\ inimigo\ (Requisito\ J4.5).\r\n\ Este\ inimigo\ tem\ um\ comportamento\ de\ patrulha,\ movendo-se\r\n\ de\ um\ lado\ para\ o\ outro\ entre\ dois\ limites.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=inimigo2(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ levarDano()
+comment4.params=
+comment4.target=void\ mover()
+comment5.params=
+comment5.target=boolean\ verificarTiro()
+comment6.params=mundo
+comment6.target=void\ morrer(greenfoot.World)
+comment7.params=
+comment7.target=boolean\ estaMorto()
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Restart
+comment0.text=\r\n\ Define\ o\ ator\ "Restart"\ (Bot\u00E3o\ Reiniciar).\r\n\ Este\ bot\u00E3o\ aparece\ na\ 'Fase1'\ e,\ ao\ ser\ clicado,\r\n\ reinicia\ o\ n\u00EDvel\ carregando\ uma\ nova\ 'Fase1'.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=Restart(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

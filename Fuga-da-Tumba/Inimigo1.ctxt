@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Inimigo1
+comment0.text=\r\n\ Define\ o\ ator\ "Inimigo1",\ um\ dos\ inimigos\ do\ jogo\ (Requisito\ J4.5).\r\n\ Este\ inimigo\ tem\ um\ comportamento\ de\ movimento\ aleat\u00F3rio.\r\n\ Ele\ pode\ ser\ ferido\ e\ removido\ do\ jogo.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=Inimigo1(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ levarDano()
+comment4.params=mundo
+comment4.target=void\ morrer(greenfoot.World)
+comment5.params=
+comment5.target=boolean\ estaMorto()
+comment6.params=
+comment6.target=void\ moverAleatoriamente()
+numComments=7

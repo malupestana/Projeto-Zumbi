@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=menu
+comment0.text=\r\n\ Define\ o\ ator\ "menu"\ (Bot\u00E3o\ Menu).\r\n\ Este\ bot\u00E3o\ aparece\ na\ 'Fase1'\ e,\ ao\ ser\ clicado,\r\n\ retorna\ o\ jogador\ para\ o\ menu\ principal\ ('HomePage').\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=menu(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

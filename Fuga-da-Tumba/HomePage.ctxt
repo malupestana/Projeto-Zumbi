@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HomePage
+comment0.text=\r\n\ Define\ o\ mundo\ do\ Menu\ Principal\ do\ jogo,\ incluindo\r\n\ os\ bot\u00F5es\ de\ play\ e\ ajuda.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=
+comment1.target=HomePage()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ mostrarInstrucoes()
+numComments=4

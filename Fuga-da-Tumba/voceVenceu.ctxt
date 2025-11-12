@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=voceVenceu
+comment0.text=\r\n\ Define\ o\ mundo\ da\ tela\ de\ "Vit\u00F3ria"\ (Voc\u00EA\ Venceu).\r\n\ Toca\ um\ som\ de\ vit\u00F3ria\ e\ permite\ ao\ jogador\ reiniciar\ ou\ voltar\ ao\ menu.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=
+comment1.target=voceVenceu()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

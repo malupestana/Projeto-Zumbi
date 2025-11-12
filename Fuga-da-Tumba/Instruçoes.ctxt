@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Instru\u00E7oes
+comment0.text=\r\n\ Define\ o\ ator\ "Instru\u00E7oes"\ (Instru\u00E7\u00F5es).\r\n\ Este\ ator\ \u00E9\ um\ painel\ que\ aparece\ na\ 'HomePage'\ quando\ o\ bot\u00E3o\r\n\ 'Ajuda'\ \u00E9\ clicado.\ Ele\ pode\ ser\ fechado\ pressionando\ 'enter'.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=Instru\u00E7oes(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=mostrar
+comment3.target=void\ setVisible(boolean)
+numComments=4

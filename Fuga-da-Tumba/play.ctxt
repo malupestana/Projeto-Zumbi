@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=play
+comment0.text=\r\n\ Define\ o\ ator\ "play"\ (Bot\u00E3o\ Play).\r\n\ Este\ bot\u00E3o\ aparece\ na\ 'HomePage'\ e\ inicia\ o\ jogo\r\n\ (carregando\ a\ 'Fase1')\ ap\u00F3s\ ser\ clicado\ duas\ vezes.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=play(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

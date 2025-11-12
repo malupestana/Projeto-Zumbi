@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Fase1
+comment0.text=\r\n\ Define\ o\ mundo\ da\ Fase\ 1\ do\ jogo,\ incluindo\ o\ cen\u00E1rio,\r\n\ jogadores,\ itens,\ placares\ e\ m\u00FAsica.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=
+comment1.target=Fase1()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=valor
+comment3.target=void\ adicionarPontos(int)
+comment4.params=
+comment4.target=void\ atualizarScore()
+comment5.params=
+comment5.target=int\ getScore()
+comment6.params=
+comment6.target=void\ adicionarChave()
+comment7.params=
+comment7.target=void\ atualizarChaves()
+comment8.params=
+comment8.target=int\ getChaves()
+comment9.params=
+comment9.target=void\ paraMusica()
+numComments=10

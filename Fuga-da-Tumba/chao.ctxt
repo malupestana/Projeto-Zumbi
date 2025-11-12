@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=chao
+comment0.text=\r\n\ Define\ o\ ator\ "chao"\ (Ch\u00E3o).\r\n\ Este\ \u00E9\ um\ ator\ de\ plataforma\ s\u00F3lido\ (Requisito\ J4.7)\ usado\r\n\ pelo\ Zumbi\ para\ andar\ e\ pular.\ \u00C9\ um\ ator\ passivo.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=chao(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

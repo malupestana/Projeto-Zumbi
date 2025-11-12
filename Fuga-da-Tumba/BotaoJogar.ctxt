@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BotaoJogar
+comment0.text=\r\n\ Define\ o\ ator\ "BotaoJogar"\ (Bot\u00E3o\ Jogar).\r\n\ Este\ bot\u00E3o\ aparece\ na\ 'Telainicial'\ e,\ ao\ ser\ clicado,\r\n\ inicia\ o\ jogo\ carregando\ o\ mundo\ 'Fase1'.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

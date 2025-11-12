@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=galho
+comment0.text=\r\n\ Define\ o\ ator\ "galho"\ (Galho).\r\n\ Este\ \u00E9\ um\ ator\ de\ obst\u00E1culo\ (Requisito\ J4.7)\ que\ causa\ dano\r\n\ ao\ jogador\ ('Zumbi')\ se\ for\ tocado.\ \u00C9\ um\ ator\ passivo.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=galho(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

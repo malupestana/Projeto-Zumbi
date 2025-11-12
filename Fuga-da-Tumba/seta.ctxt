@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=seta
+comment0.text=\r\n\ Define\ o\ ator\ "seta"\ (Placa\ de\ Sa\u00EDda).\r\n\ Este\ \u00E9\ um\ ator\ passivo\ que\ marca\ o\ local\ de\ sa\u00EDda\ da\ fase.\r\n\ O\ jogador\ ('Zumbi')\ verifica\ se\ tocou\ nesta\ placa\ para\ vencer.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=seta(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

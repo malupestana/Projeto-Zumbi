@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Projetil
+comment0.text=\r\n\ Define\ o\ ator\ "Projetil"\ (o\ osso\ que\ o\ Zumbi\ atira).\r\n\ Este\ ator\ se\ move\ para\ frente,\ avisa\ os\ inimigos\ quando\ os\ acerta\r\n\ e\ se\ remove\ do\ mundo\ (para\ evitar\ crashes).\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura\ direcao
+comment1.target=Projetil(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ verificarAcerto()
+comment4.params=
+comment4.target=boolean\ verificarBorda()
+comment5.params=
+comment5.target=void\ moverProjetil()
+numComments=6

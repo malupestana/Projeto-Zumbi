@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ajuda
+comment0.text=\r\n\ Define\ o\ ator\ do\ bot\u00E3o\ "Ajuda".\r\n\ Quando\ clicado,\ ele\ avisa\ o\ mundo\ 'HomePage'\ para\ mostrar\ as\ instru\u00E7\u00F5es.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=Ajuda(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

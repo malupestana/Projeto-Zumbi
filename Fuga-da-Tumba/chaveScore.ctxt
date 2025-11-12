@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=chaveScore
+comment0.text=\r\n\ Define\ o\ ator\ "chaveScore"\ (R\u00F3tulo\ do\ Placar\ de\ Chaves).\r\n\ Este\ ator\ \u00E9\ apenas\ a\ imagem\ est\u00E1tica\ (o\ "r\u00F3tulo")\ para\ o\ placar\ de\ chaves.\r\n\ O\ n\u00FAmero\ de\ chaves\ \u00E9\ desenhado\ pelo\ mundo\ 'Fase1'.\r\n\ @author\ Maria\ Luiza\ Pestana\ e\ Geovana\ Zacaroni\r\n\ @version\ 12-11-2025\r\n
+comment1.params=largura\ altura
+comment1.target=chaveScore(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
